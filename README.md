@@ -6,5 +6,8 @@ The Machine Learning Model was created using Python and its library including Te
 The results show the presence or absence of Cataracts.
 model_final.tflite is the ML model that is used here. (from model folder)
 
+This app was developed as part of a research study on mobile detection of Cataracts published on IET: Cyber-Physical Systems. 
+Link to study: https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cps2.12083
+
 # Screenshot of UI and use case: 
 ![Screenshot 2024-06-04 005216](https://github.com/Slyyoursenpai/I-Scan/assets/62341446/d2692073-95e9-4a71-bbb2-8e8222456f77)
